@@ -2,3 +2,5 @@
 !/.Renviron
 
 !.Renviron
+/.cache/
+/.report/
